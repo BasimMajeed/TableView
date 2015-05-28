@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TestTableViewController.h
 //  TableView Challenge
 //
 //  Created by Basim Majeed on 28/05/2015.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TestTableViewController : UITableViewController
 
 @end
-
